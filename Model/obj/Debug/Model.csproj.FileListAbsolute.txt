@@ -1,0 +1,11 @@
+C:\Users\dario\source\repos\PagosProveedores\Model\bin\Debug\Model.dll
+C:\Users\dario\source\repos\PagosProveedores\Model\bin\Debug\Model.pdb
+C:\Users\dario\source\repos\PagosProveedores\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\PagosProveedores\Model\obj\Debug\Model.dll
+C:\Users\dario\source\repos\PagosProveedores\Model\obj\Debug\Model.pdb
+C:\Repos\Valkimia\PagosProveedores\pagosproveedores\Model\bin\Debug\Model.dll
+C:\Repos\Valkimia\PagosProveedores\pagosproveedores\Model\bin\Debug\Model.pdb
+C:\Repos\Valkimia\PagosProveedores\pagosproveedores\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Repos\Valkimia\PagosProveedores\pagosproveedores\Model\obj\Debug\Model.dll
+C:\Repos\Valkimia\PagosProveedores\pagosproveedores\Model\obj\Debug\Model.pdb
+C:\Repos\Valkimia\PagosProveedores\pagosproveedores\Model\obj\Debug\Model.csproj.AssemblyReference.cache
